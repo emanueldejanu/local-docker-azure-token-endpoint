@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.slnx.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -350,3 +351,5 @@ MigrationBackup/
 .ionide/
 
 launchSettings.json
+/src/LocalDockerAzureTokenEndpoint/Directory.Packages.props
+/src/SampleConsumerApp/Directory.Packages.props
